@@ -196,7 +196,7 @@ python -m prompt_negatives.combine_labels --dataset_partition <partition>
 ### To cite us: 
 ```bibtex
 
-@article{mirza2024mpvr,
+@article{conme,
     author    = {Huang, Irene* and Lin, Wei* and Mirza, M. Jehanzeb* and  Hansen, Jacob A. and Doveh, Sivan and Butoi, Victor Ion and Herzig, Roei and Arbelle, Assaf and Kuhene, Hilde and Darrel, Trevor and Gan, Chuang and Olivia, Aude and Feris, Rogerio and Karlinsky, Leonid},
     journal   = {ArXiv},
     title     = {{ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs}},
